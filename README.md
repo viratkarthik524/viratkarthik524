@@ -12,7 +12,9 @@ I'm a passionate Full Stack Developer who's enthusiastic about creating remarkab
 
 ## 🌱 Learning Journey
 
-Currently, I'm immersed in my learning journey, with a strong focus on backend development and exploring advanced concepts in cybersecurity. I'm excited to expand my skills and deepen my knowledge in these areas.
+I am currently deeply immersed in my learning journey, with a keen focus on enhancing my proficiency in backend development. Exploring advanced concepts in cybersecurity further fuels my excitement as I work to broaden my skill set and deepen my knowledge in these critical domains.
+
+Stay tuned as I dive into the intricacies of backend architecture and cybersecurity practices to create more secure and efficient applications. The journey of continuous growth is one that I embrace wholeheartedly.
 
 ## 💼 Open for Collaboration
 
